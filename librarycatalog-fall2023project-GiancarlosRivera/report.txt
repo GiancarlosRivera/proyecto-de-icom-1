@@ -1,0 +1,62 @@
+				REPORT
+
+		SUMMARY OF BOOKS
+GENRE						AMOUNT
+Adventure					12
+Fiction						11
+Classics					12
+Mystery						8
+Science Fiction					7
+====================================================
+			TOTAL AMOUNT OF BOOKS	50
+
+			BOOKS CURRENTLY CHECKED OUT
+
+The Catcher in the Rye BY J.D. Salinger
+Dune BY Frank Herbert
+The Girl with the Dragon Tattoo BY Stieg Larsson
+The Hobbit BY J.R.R. Tolkien
+To Kill a Mockingbird BY Harper Lee
+The Road BY Cormac McCarthy
+The Odyssey BY Homer
+1984 BY George Orwell
+The Lord of the Rings BY J.R.R. Tolkien
+The Hitchhiker's Guide to the Galaxy BY Douglas Adams
+The Art of War BY Sun Tzu
+The Shining BY Stephen King
+The Count of Monte Cristo BY Alexandre Dumas
+The Grapes of Wrath BY John Steinbeck
+The Jungle Book BY Rudyard Kipling
+A Tale of Two Cities BY Charles Dickens
+The Little Prince BY Antoine de Saint-Exupery
+The Night Circus BY Erin Morgenstern
+Like Water for Chocolate BY Laura Esquivel
+The Goldfinch BY Donna Tartt
+The Martian BY Andy Weir
+The Name of the Wind BY Patrick Rothfuss
+The Magicians BY Lev Grossman
+The Catcher in the Rye BY J.D. Salinger
+The Little Prince BY Antoine de Saint-Exupury
+====================================================
+			TOTAL AMOUNT OF BOOKS	25
+
+
+
+		USERS THAT OWE BOOK FEES
+
+John Smith					$1282.50
+Michael Johnson					$711.50
+Susan Jones					$274.00
+Sarah Wilson					$968.00
+James Anderson					$103.00
+Karen Lee					$849.00
+Charles Martin					$1258.50
+Joseph Clark					$1026.00
+John Wright					$847.50
+Karen Turner					$512.50
+Daniel Young					$389.50
+Kimberly Baker					$58.00
+====================================================
+				TOTAL DUE	$8280.00
+
+
